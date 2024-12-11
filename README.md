@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on P&G Project<br>👯 I’m looking to collaborate on DCT<br>💬 About Backend and deployment<br>⚡ A hub of innovation and problem-solving, this account is all about building the future, one commit at a time!
+🔭 I’m currently working on P&G Project<br>👯 I’m looking to collaborate on DCT<br>💬 About Software development and deployment<br>⚡ A hub of innovation and problem-solving, this account is all about building the future, one commit at a time!
 
 
 # 💻 Tech Stack:
